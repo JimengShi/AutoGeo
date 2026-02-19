@@ -107,7 +107,9 @@ Workflow Results
 ```
 
 ### 2. Data download from various data sources 
-- ✅ URL, e.g., https://github.com/JimengShi/DL-WaLeF/blob/main/data/Merged-update_hourly.csv, or https://github.com/JimengShi/DL-WaLeF/tree/main/data
+- ✅ URL, 
+   - url of file: https://github.com/JimengShi/DL-WaLeF/blob/main/data/Merged-update_hourly.csv
+   - url of file folder: https://github.com/JimengShi/DL-WaLeF/tree/main/data
 - ✅ HuggingFace, e.g., https://huggingface.co/datasets/HC-85/flood-prediction
 - ✅ Zenodo: e.g., https://zenodo.org/records/14715390
 - Domain databases:
