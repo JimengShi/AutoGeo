@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-geospatial_data/
+geospatial_data/downloads/JimengShi_DL-WaLeF_data
 *.zip
 data/
-
