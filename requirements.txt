@@ -1,0 +1,25 @@
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+datasets>=2.14.0
+huggingface-hub>=0.16.0
+kaggle>=1.5.16
+scikit-learn>=1.3.0
+openpyxl>=3.1.0
+pyarrow>=12.0.0
+openai>=1.0.0
+anthropic>=0.18.0
+word2number
+# Geospatial dependencies (optional, for GEOAGENT)
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-anthropic>=0.1.0
+langgraph>=0.0.20
+tavily-python>=0.3.0
+geopandas>=0.14.0
+rasterio>=1.3.0
+shapely>=2.0.0
+fiona>=1.9.0
+pyproj>=3.6.0
+folium>=0.15.0
+contextily>=1.4.0
