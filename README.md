@@ -58,7 +58,7 @@ The agent uses a **code generation and execution** approach:
 From the project root path, run
 
 ```bash
-python python run_geoagent.py
+python run_geoagent.py
 ```
 
 Then interact naturally.
